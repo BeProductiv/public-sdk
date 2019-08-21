@@ -5,7 +5,7 @@ These APIs support integrating custom applications into the Productiv platform. 
 Table of Contents
 =================
 
-  * [Setup An Application]()
-  * [Authorization]()
-  * [Publish Usage Events]()
-  * [Publish Provisioned User]()
+  * [Setup An Application](https://github.com/BeProductiv/public-sdk/wiki/Setup-an-Application)
+  * [Authorization](https://github.com/BeProductiv/public-sdk/wiki/Authorization)
+  * [Publish Usage Events](https://github.com/BeProductiv/public-sdk/wiki/Publish-Usage-Events)
+  * [Publish Provisioned User](https://github.com/BeProductiv/public-sdk/wiki/Publish-Provisioned-Users)

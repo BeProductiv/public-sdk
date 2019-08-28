@@ -8,4 +8,4 @@ Table of Contents
   * [Setup An Application](https://github.com/BeProductiv/public-sdk/wiki/Setup-an-Application)
   * [Authorization](https://github.com/BeProductiv/public-sdk/wiki/Authorization)
   * [Publish Usage Events](https://github.com/BeProductiv/public-sdk/wiki/Publish-Usage-Events)
-  * [Publish Provisioned User](https://github.com/BeProductiv/public-sdk/wiki/Publish-Provisioned-Users)
+  * [Publish Provisioned Users](https://github.com/BeProductiv/public-sdk/wiki/Publish-Provisioned-Users)
